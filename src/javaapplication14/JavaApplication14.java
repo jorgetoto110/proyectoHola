@@ -16,7 +16,7 @@ public class JavaApplication14 {
      */
     public static void main(String[] args) {
         System.out.println("hola desde netbeans");
-         System.out.println("hola desde netbeans");
+       
     }
     
 }
